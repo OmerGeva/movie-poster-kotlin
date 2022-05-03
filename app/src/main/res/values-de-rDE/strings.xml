@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kino Poster</string>
+    <string name="title">Indiana Jones</string>
+    <string name="subtitle">und die Jäger des verlorenen Schatzes</string>
+    <string name="prompt_1">Bitte wählen Sie ein Kino aus</string>
+    <string name="prompt_2">wie viele kinokarten?</string>
+    <string name="tel_aviv_cinema">Tel Aviv Kino</string>
+    <string name="herzelia_cinema">Herzelia Kino</string>
+    <string name="button">Informationen zu Kinokarten anzeigen</string>
+    <string name="ticket_info">Informationen zu Kinokarten</string>
+    <string name="your_selected_theater">Ihr ausgewähltes Kino</string>
+    <string name="you_ordered">du hast bestellt</string>
+    <string name="your_price">kinokarten, und ihr preis ist</string>
+    <string name="cool">fresh</string>
+</resources>

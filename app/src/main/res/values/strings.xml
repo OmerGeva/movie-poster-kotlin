@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Movie Poster</string>
+    <string name="title">Indiana Jones</string>
+    <string name="subtitle">and the Raiders of the Lost Ark</string>
+    <string name="tel_aviv_cinema">Tel Aviv Cinema</string>
+    <string name="herzelia_cinema">Herzelia Cinema</string>
+    <string name="button">Show ticket information</string>
+    <string name="ticket_info">Ticket information</string>
+    <string name="your_selected_theater">Your selected Theater:</string>
+    <string name="you_ordered">you ordered</string>
+    <string name="your_price">tickets, and your price is</string>
+    <string name="cool">cool</string>
+    <string name="prompt_1">Please choose a cinema</string>
+    <string name="prompt_2">How many tickets?</string>
+</resources>
